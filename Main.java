@@ -1,3 +1,5 @@
+//простая программа с интерфейсом
+
 package sample;
 
 import javax.swing.JFrame;
