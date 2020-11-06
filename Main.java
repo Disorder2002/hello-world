@@ -1,5 +1,5 @@
 package sample;
-
+//выводит максимальное, среднее и минимальное число
 
 public class Main{
     public static void main(String[] args) {
